@@ -3,7 +3,7 @@ background: url(http://www.sftravel.com/sites/sftraveldev.prod.acquia-sites.com/
 background-size: center;
 }
 
-.header{
+.navbar{
   position: absolute;
   top: 80px;
   width: 100%;
