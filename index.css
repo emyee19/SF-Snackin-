@@ -11,3 +11,8 @@ background-size: center;
   font-family:"Courier New";
   font-size: 1;
 }
+
+h1{
+    font-size: 12000;
+    font-family: monospace;
+}
