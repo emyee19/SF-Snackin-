@@ -13,9 +13,14 @@ body{
   font-size: 1;
 }
 
-heading { 
-    
-    
+heading {
+    color:#AFEEEE; 
+    font-size:34 px; 
+    text-align: center;
 }
 
+ul.active {
+    background-color: #4CAF50;
+    color: white;
+}
 
