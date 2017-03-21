@@ -14,7 +14,7 @@ body, html {
             
 .parallax {
     /* The image used */
-    background-image: url('https://cdn0.vox-cdn.com/uploads/chorus_image/image/51770527/o__24_.0.0.jpg');
+    /*background-image: url('https://cdn0.vox-cdn.com/uploads/chorus_image/image/51770527/o__24_.0.0.jpg');*/
 
     /* Full height */
     height: 100%; 
@@ -26,3 +26,13 @@ body, html {
     background-size: cover;
 }
 
+#img1{
+     background-image: url('https://cdn0.vox-cdn.com/uploads/chorus_image/image/51770527/o__24_.0.0.jpg');
+}
+
+#img2{
+    background-image: url('https://sites.psu.edu/siowfa16/files/2016/10/shutterstock_245938681.0.0-239e4it.jpg')
+}
+#img3{
+    background-image: url('http://www.stlawu.edu/sites/default/files/Culture-Eats-Strategy-For-Breakfast-1.jpg')
+}
