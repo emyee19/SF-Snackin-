@@ -13,9 +13,6 @@ body, html {
 }
             
 .parallax {
-    /* The image used */
-    background-image: url('http://2nbtoy3u3qzf34dru617v1vs.wpengine.netdna-cdn.com/wp-content/uploads/2016/06/Ghiradeli_54_990x660.jpg');
-
     /* Full height */
     height: 100%; 
 
@@ -28,4 +25,15 @@ body, html {
 a:link{
     font-size: 210%;
       text-decoration: none;
+}
+
+#first {
+    background-image: url('http://2nbtoy3u3qzf34dru617v1vs.wpengine.netdna-cdn.com/wp-content/uploads/2016/06/Ghiradeli_54_990x660.jpg');
+}
+
+#second {
+    background-image: url('http://www.docksiderestaurants.com/site/wp-content/uploads/2013/02/053-dockside.jpg');
+}
+#third{
+    background-image: url('https://media1.popsugar-assets.com/files/thumbor/NbZ9saUeC9cgCHOiTdtQVA6-MQM/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2015/09/16/975/n/1922195/602a1576_edit_img_facebook_post_image_file_1090627_1442442103_Deep_Fried_Oreos_FACEBOOK.jpg');
 }

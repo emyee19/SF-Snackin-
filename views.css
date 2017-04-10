@@ -13,8 +13,6 @@ body, html {
 }
             
 .parallax {
-    /* The image used */
-    background-image: url('https://cdn0.vox-cdn.com/uploads/chorus_image/image/51770527/o__24_.0.0.jpg');
 
     /* Full height */
     height: 100%; 
@@ -30,4 +28,13 @@ a:link{
     font-size: 210%;
       text-decoration: none;
     text-align: center;
+}
+#first {
+    background-image: url('https://cdn0.vox-cdn.com/uploads/chorus_image/image/51770527/o__24_.0.0.jpg');
+}
+#second {
+    background-image: url('http://www.docksiderestaurants.com/site/wp-content/uploads/2013/02/053-dockside.jpg');
+}
+#third{
+    background-image: url('https://media1.popsugar-assets.com/files/thumbor/NbZ9saUeC9cgCHOiTdtQVA6-MQM/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2015/09/16/975/n/1922195/602a1576_edit_img_facebook_post_image_file_1090627_1442442103_Deep_Fried_Oreos_FACEBOOK.jpg');
 }
