@@ -10,10 +10,11 @@
 
 body, html {
     height: 100%;
+    font: 400 15px/1.8 "Lato", sans-serif;
+
 }
             
 .parallax {
-
     /* Full height */
     height: 100%; 
 
@@ -28,12 +29,7 @@ a:link{
     font-size: 210%;
       text-decoration: none;
 }
-#first {
-    background-image: url('https://midtownhouston.com/wp-content/uploads/2016/02/Valentines-Day-Image-1.jpg');
-}
-#second {
-    background-image: url('http://www.docksiderestaurants.com/site/wp-content/uploads/2013/02/053-dockside.jpg');
-}
-#third{
-    background-image: url('https://media1.popsugar-assets.com/files/thumbor/NbZ9saUeC9cgCHOiTdtQVA6-MQM/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2015/09/16/975/n/1922195/602a1576_edit_img_facebook_post_image_file_1090627_1442442103_Deep_Fried_Oreos_FACEBOOK.jpg');
+
+#first{
+    background-image: url('https://nebula.wsimg.com/1a3891d8586ff372966c80c77a1b9177?AccessKeyId=47929E44417370C2BDA4&disposition=0&alloworigin=1')
 }
