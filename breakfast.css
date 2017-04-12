@@ -38,3 +38,27 @@ a:link{
 #third{
     background-image: url('https://seasoningandsalt.files.wordpress.com/2013/02/kevins-noodle-house-011.jpg');
 }
+.outer{
+    width:100%;
+    height:100%;
+    position:absolute;
+
+}
+.orange{
+    position:absolute;
+    top:40%;
+    left:40%;
+    font-size:600%;
+}
+.pink{
+    position:absolute;
+    top:45%;
+    left:35%;
+    font-size:600%;
+}
+.yellow{
+    position:absolute;
+    top:40%;
+    left:20%;
+    font-size:600%;
+}
