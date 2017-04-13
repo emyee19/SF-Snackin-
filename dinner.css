@@ -31,7 +31,9 @@ a:link{
     background-image: url('https://nebula.wsimg.com/1a3891d8586ff372966c80c77a1b9177?AccessKeyId=47929E44417370C2BDA4&disposition=0&alloworigin=1')
 }
 
-#second
+#second{
+    background-image: url(http://www.foodrepublic.com/wp-content/uploads/2017/01/Souvla-KB-25.jpg)
+}
 
 .caption {
   position:absolute;
