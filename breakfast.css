@@ -24,7 +24,7 @@ body, html {
 }
 
 a:link{
-    font-size: 210%;
+    font-size: 360%;
       text-decoration: none;
 }
 
@@ -68,5 +68,4 @@ a:link{
     font-size:600%;
     background-color:black;
     color:white;
-    face="impact";
 }
