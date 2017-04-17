@@ -24,7 +24,7 @@ body, html {
 }
 
 a:link{
-    font-size: 360%;
+    font-size: 250%;
       text-decoration: none;
 }
 
@@ -38,34 +38,27 @@ a:link{
 #third{
     background-image: url('https://seasoningandsalt.files.wordpress.com/2013/02/kevins-noodle-house-011.jpg');
 }
-.outer{
-    width:100%;
-    height:100%;
-    position:absolute;
+.caption {
+  position:absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
 
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
 }
-.orange{
-    position:absolute;
-    top:40%;
-    left:40%;
-    font-size:600%;
-    background-color:black;
-    color:white;
-    
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #111;
 }
-.pink{
-    position:absolute;
-    top:45%;
-    left:35%;
-    font-size:600%;
-    background-color:black;
-    color:white;
-}
-.yellow{
-    position:absolute;
-    top:40%;
-    left:20%;
-    font-size:600%;
-    background-color:black;
-    color:white;
-}
+
