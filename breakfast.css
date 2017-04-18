@@ -3,8 +3,8 @@
   height: 5px;
   background-color: rgba(255,255,255,1.0);
   color: black;
-  font-family:"Courier New";
-  font-size: 1;
+  font-family:"Lato";
+  font-size: 8;
   text-decoration: none;
 }
 
@@ -13,6 +13,7 @@ body, html {
 }
             
 .parallax {
+
     /* Full height */
     height: 100%; 
 
@@ -22,9 +23,8 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 a:link{
-    font-size: 250%;
+    font-size: 300%;
       text-decoration: none;
 }
 
