@@ -8,11 +8,16 @@ background-size: center;
   background-color: rgba(255,255,255,1.0);
   color: black;
   font-family:"Lato";
-  font-size: 1;
+  font-size: 8;
   text-decoration: none;
+  display:block;
 }
 
 a:link{
     font-size: 300%;
     text-decoration: none;
+}
+
+.container{
+    display:block;
 }
