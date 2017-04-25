@@ -29,19 +29,22 @@ a:link{
 }
 
 #first {
-    background-image: url('https://hongkongexchange2010ualberta.files.wordpress.com/2010/11/mango-dessert.jpg');
+    background-image: url(http://cbsla.files.wordpress.com/2011/03/featured-kind-kreme-2.jpg);
 }
 
 #second {
-    background-image: url('http://violetfog.com/wp-content/uploads/2017/03/Powder-Shaved-Snow-SF-12-of-12.jpg');
+    background-image: url(http://i1123.photobucket.com/albums/l543/hercampusphoto/UNC%20Meet%20the%20Team/2-21DessertMango.jpg);
 }
 #third{
-    background-image: url('https://s-media-cache-ak0.pinimg.com/originals/45/31/db/4531db19397690437eeddf5dcb176cc2.jpg');
-       
+    background-image: url('http://violetfog.com/wp-content/uploads/2017/03/Powder-Shaved-Snow-SF-12-of-12.jpg');
 }
 
 #fourth{
-    background-image: url(https://static1.squarespace.com/static/50ce46ece4b01020c34fd52b/t/5762e337d2b8578a71eb3e1c/1466098505118/);
+    background-image: url('https://s-media-cache-ak0.pinimg.com/originals/45/31/db/4531db19397690437eeddf5dcb176cc2.jpg');
+}
+
+#fifth{
+    background-image:url(http://ww2.hdnux.com/photos/51/47/71/10911357/5/1024x1024.jpg);
 }
 .caption {
   position:absolute;
